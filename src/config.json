@@ -1,36 +1,12 @@
 {
-    "options": [
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        }
-    ]
+  "options": [
+    {
+      "name": "اعــضــاء الــعــصــابــه",
+      "admins": ["998556330442887199", "884791469955772477"],
+      "image": "https://cdn.discordapp.com/attachments/1161055982529552416/1204957518703370361/OIP.png?ex=65d69f23&is=65c42a23&hm=3c58b40aa0f07475f2e6f7ed&",
+      "emoji": "< a:555:1131192233341755392>",
+      "logchannel": "1204974514090414130",
+      "role": "1169910302343708762"
+    }
+  ]
 }
